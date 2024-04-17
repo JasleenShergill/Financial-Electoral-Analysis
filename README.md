@@ -25,16 +25,24 @@ Are you ready to embark on this thrilling coding expedition? Strap in, fellow co
 Here are the results of our financial analysis:
 
 Total number of months: 86
+
 Total Revenue in period: $22,564,198
+
 Average monthly change in Revenue: $-8,311.11
+
 Greatest Increase in Profits: Aug-16 ($1,862,002)
+
 Greatest Decrease in Profits: Feb-14 ($-1,825,558)
 
 **Election Results**
 And here are the results of our election analysis:
 
 Total Votes: 369,711
+
 Charles Casper Stockham: 23.049% (85,213)
+
 Diana DeGette: 73.812% (272,892)
+
 Raymon Anthony Doane: 3.139% (11,606)
+
 Winner: Diana DeGette
