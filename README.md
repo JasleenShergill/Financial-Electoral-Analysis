@@ -1,4 +1,4 @@
-**🚀 Financial & Electoral Adventures 🗳️**
+# **🚀 Financial & Electoral Adventures 🗳️**
 
 Welcome to the Financial & Electoral Adventures! Embark on a thrilling journey through financial records and electoral landscapes with PyBank and PyPoll.
 
